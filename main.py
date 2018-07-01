@@ -140,7 +140,7 @@ def run():
     #  https://www.cityscapes-dataset.com/
 
     tf.reset_default_graph()
-    epochs = 12
+    epochs = 11
     batch_size = 5
 
     
